@@ -13,8 +13,8 @@ public class Main {
         System.out.println();
 
         // Polimorfisme Pegawai
-        Pegawai pegawai1 = new PegawaiTetap("Budi", 5000000, 1000000);
-        Pegawai pegawai2 = new PegawaiKontrak("Andi", 3000000, 12);
+        Pegawai pegawai1 = new PegawaiTetap("Ridwan", 5000000, 1000000);
+        Pegawai pegawai2 = new PegawaiKontrak("Fadzil", 3000000, 12);
 
         pegawai1.tampilkanInfo();
         System.out.println(); // Pemisah output
